@@ -1,0 +1,5 @@
+/home/runner/Csharp/obj/Debug/netcoreapp5.0/main.csprojAssemblyReference.cache
+/home/runner/Csharp/obj/Debug/netcoreapp5.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/Csharp/obj/Debug/netcoreapp5.0/main.AssemblyInfoInputs.cache
+/home/runner/Csharp/obj/Debug/netcoreapp5.0/main.AssemblyInfo.cs
+/home/runner/Csharp/obj/Debug/netcoreapp5.0/main.csproj.CoreCompileInputs.cache
