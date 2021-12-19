@@ -1,0 +1,16 @@
+/media/onnudi/New Volume1/github/idunnoaiii/dotnet/webform/testconsole/WhereClauseDynamicLinq/bin/Debug/net5.0/WhereClauseDynamicLinq
+/media/onnudi/New Volume1/github/idunnoaiii/dotnet/webform/testconsole/WhereClauseDynamicLinq/bin/Debug/net5.0/WhereClauseDynamicLinq.deps.json
+/media/onnudi/New Volume1/github/idunnoaiii/dotnet/webform/testconsole/WhereClauseDynamicLinq/bin/Debug/net5.0/WhereClauseDynamicLinq.runtimeconfig.json
+/media/onnudi/New Volume1/github/idunnoaiii/dotnet/webform/testconsole/WhereClauseDynamicLinq/bin/Debug/net5.0/WhereClauseDynamicLinq.runtimeconfig.dev.json
+/media/onnudi/New Volume1/github/idunnoaiii/dotnet/webform/testconsole/WhereClauseDynamicLinq/bin/Debug/net5.0/WhereClauseDynamicLinq.dll
+/media/onnudi/New Volume1/github/idunnoaiii/dotnet/webform/testconsole/WhereClauseDynamicLinq/bin/Debug/net5.0/ref/WhereClauseDynamicLinq.dll
+/media/onnudi/New Volume1/github/idunnoaiii/dotnet/webform/testconsole/WhereClauseDynamicLinq/bin/Debug/net5.0/WhereClauseDynamicLinq.pdb
+/media/onnudi/New Volume1/github/idunnoaiii/dotnet/webform/testconsole/WhereClauseDynamicLinq/obj/Debug/net5.0/WhereClauseDynamicLinq.csproj.AssemblyReference.cache
+/media/onnudi/New Volume1/github/idunnoaiii/dotnet/webform/testconsole/WhereClauseDynamicLinq/obj/Debug/net5.0/WhereClauseDynamicLinq.GeneratedMSBuildEditorConfig.editorconfig
+/media/onnudi/New Volume1/github/idunnoaiii/dotnet/webform/testconsole/WhereClauseDynamicLinq/obj/Debug/net5.0/WhereClauseDynamicLinq.AssemblyInfoInputs.cache
+/media/onnudi/New Volume1/github/idunnoaiii/dotnet/webform/testconsole/WhereClauseDynamicLinq/obj/Debug/net5.0/WhereClauseDynamicLinq.AssemblyInfo.cs
+/media/onnudi/New Volume1/github/idunnoaiii/dotnet/webform/testconsole/WhereClauseDynamicLinq/obj/Debug/net5.0/WhereClauseDynamicLinq.csproj.CoreCompileInputs.cache
+/media/onnudi/New Volume1/github/idunnoaiii/dotnet/webform/testconsole/WhereClauseDynamicLinq/obj/Debug/net5.0/WhereClauseDynamicLinq.dll
+/media/onnudi/New Volume1/github/idunnoaiii/dotnet/webform/testconsole/WhereClauseDynamicLinq/obj/Debug/net5.0/ref/WhereClauseDynamicLinq.dll
+/media/onnudi/New Volume1/github/idunnoaiii/dotnet/webform/testconsole/WhereClauseDynamicLinq/obj/Debug/net5.0/WhereClauseDynamicLinq.pdb
+/media/onnudi/New Volume1/github/idunnoaiii/dotnet/webform/testconsole/WhereClauseDynamicLinq/obj/Debug/net5.0/WhereClauseDynamicLinq.genruntimeconfig.cache

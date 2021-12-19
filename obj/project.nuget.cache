@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tM3na89LGL8ahr5SI0tu8AWw7PYEJvBop+KZzCJPK2VfIrUUmcuFfF7+gtGVnbMb/agUACs+HO1kunXQsDdpBg==",
+  "dgSpecHash": "BFHFYkPSvX+l8gufAW0qvcFWAHsWJgXIB1U9EYe1VbCo+VrKNC5GKz2q10BZ+U+BRGySLlQnnX9qSwvLvVKDxA==",
   "success": true,
-  "projectFilePath": "/home/runner/Csharp/main.csproj",
+  "projectFilePath": "/media/onnudi/New Volume1/github/idunnoaiii/dotnet/webform/testconsole/WhereClauseDynamicLinq/WhereClauseDynamicLinq.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

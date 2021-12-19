@@ -8,29 +8,29 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/home/runner/.nuget/packages/": {}
+    "/home/onnudi/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/runner/Csharp/main.csproj",
-      "projectName": "main",
-      "projectPath": "/home/runner/Csharp/main.csproj",
-      "packagesPath": "/home/runner/.nuget/packages/",
-      "outputPath": "/home/runner/Csharp/obj/",
+      "projectUniqueName": "/media/onnudi/New Volume1/github/idunnoaiii/dotnet/webform/testconsole/WhereClauseDynamicLinq/WhereClauseDynamicLinq.csproj",
+      "projectName": "WhereClauseDynamicLinq",
+      "projectPath": "/media/onnudi/New Volume1/github/idunnoaiii/dotnet/webform/testconsole/WhereClauseDynamicLinq/WhereClauseDynamicLinq.csproj",
+      "packagesPath": "/home/onnudi/.nuget/packages/",
+      "outputPath": "/media/onnudi/New Volume1/github/idunnoaiii/dotnet/webform/testconsole/WhereClauseDynamicLinq/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/runner/.nuget/NuGet/NuGet.Config"
+        "/home/onnudi/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp5.0"
+        "net5.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
-          "targetAlias": "netcoreapp5.0",
+          "targetAlias": "net5.0",
           "projectReferences": {}
         }
       },
@@ -42,7 +42,7 @@
     },
     "frameworks": {
       "net5.0": {
-        "targetAlias": "netcoreapp5.0",
+        "targetAlias": "net5.0",
         "imports": [
           "net461",
           "net462",
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/nix/store/nv6sla72qmb07nma9xrsjq74djggqr0g-dotnet-sdk-5.0.202/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.404/RuntimeIdentifierGraph.json"
       }
     }
   }

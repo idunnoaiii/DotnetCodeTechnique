@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WhereClauseDynamicLinq/1.0.0": {
+        "runtime": {
+          "WhereClauseDynamicLinq.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WhereClauseDynamicLinq/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
